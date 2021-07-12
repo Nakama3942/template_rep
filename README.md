@@ -1,5 +1,5 @@
 [![template](https://img.shields.io/badge/Repository-template-darkred)](https://github.com/Nakama3942/template_rep)
-[![GitHub license](https://img.shields.io/github/license/Nakama3942/template_rep?style=flat-square)](https://github.com/Nakama3942/template_rep/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Nakama3942/template_rep?color=yellow&style=flat-square)](https://github.com/Nakama3942/template_rep/blob/main/LICENSE)
 
 # template_rep
 My template for repositories
