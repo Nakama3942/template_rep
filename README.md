@@ -1,3 +1,5 @@
+https://img.shields.io/badge/Repository-template-darkred
+
 # template_rep
 My template for repositories
 
@@ -5,6 +7,8 @@ My template for repositories
 
 Например:
 
+    Shields — значки, которые украшают readme.md и являются ссылками на определённые страницы
+    Repository name — название репозитория
     Overview — краткое описание проекта;
     Usage — как использовать проект;
     Building — как запустить проект, что для этого нужно;
@@ -19,7 +23,7 @@ My template for repositories
 
 Образец:
 
-# Name repository
+# Repository name
 ## Overview
 Краткое описание проекта
 
