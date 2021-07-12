@@ -1,4 +1,4 @@
-https://img.shields.io/badge/Repository-template-darkred
+[![template](https://img.shields.io/badge/Repository-template-darkred)](https://github.com/Nakama3942/template_rep)
 
 # template_rep
 My template for repositories
