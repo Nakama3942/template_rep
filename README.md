@@ -9,38 +9,38 @@
 # template_rep
 My template for repositories
 
-Это описание проекта, его визитная карточка. Всё, что нужно сказать о проекте, должно быть здесь. Разумеется, его нужно будет описывать каждый раз, учитывая специфику проекта, но заголовки будут одни и те же. 
+This is a description of the project, its business card. Everything that needs to be said about the project should be here. Of course, it will need to be described every time, taking into account the specifics of the project, but the titles will be the same.
 
 Например:
 
-    Shields — значки, которые украшают readme.md и являются ссылками на определённые страницы
-    Repository name — название репозитория
-    Overview — краткое описание проекта;
-    Usage — как использовать проект;
-    Building — как запустить проект, что для этого нужно;
-    Troubleshooting — здесь описывается то, с какими проблемами можно столкнуться и как их решить;
+    Shields - icons that adorn readme.md and are links to specific pages
+    Repository name - the name of the repository
+    Overview - a brief description of the project;
+    Usage - how to use the project;
+    Building - how to start a project, what is needed for this;
+    Troubleshooting - describes what problems you may encounter and how to solve them;
     
-    CHANGELOG — файл, в котором записываются все изменения для новых версий (нужно указать ссылку на него);
-    CONTRIBUTING — файл, в котором описано, как можно внести вклад в развитие этого проекта (нужно указать ссылку на него);
-    CODE_OF_CONDUCT — файл, в котором описаны правила для участия в развитии проекта (нужно указать ссылку на него);
-    PULL_REQUEST_TEMPLATE — шаблон для тех, кто будет создавать pull-request (нужно указать ссылку на него);
+    CHANGELOG - a file that records all changes for new versions (you need to provide a link to it);
+    CONTRIBUTING - a file that describes how you can contribute to the development of this project (you need to provide a link to it);
+    CODE_OF_CONDUCT - a file that describes the rules for participating in the development of the project (you need to provide a link to it);
+    PULL_REQUEST_TEMPLATE - template for those who will create a pull-request (you need to provide a link to it);
     
-    Authors — не забываем и о себе любимых.
+    Authors - do not forget about our loved ones.
 
-Образец:
+Sample:
 
 # Repository name
 ## Overview
-Краткое описание проекта
+Brief description of the project
 
 ## Usage
-Как использовать проект
+How to use the project
 
 ## Building
-Как запустить проект, что для этого нужно
+How to start a project, what is needed for this
 
 ## Troubleshooting
-Здесь описывается то, с какими проблемами можно столкнуться и как их решить
+It describes what problems you may encounter and how to solve them
 
 ## Authors
 <table>
