@@ -1,3 +1,4 @@
+<!--
 [![template](https://img.shields.io/badge/Repository-template-darkred)](https://github.com/Nakama3942/template_rep)
 [![GitHub license](https://img.shields.io/github/license/Nakama3942/template_rep?color=purple&style=flat-square)](https://github.com/Nakama3942/template_rep/blob/main/LICENSE)
 
@@ -41,7 +42,7 @@ How to start a project, what is needed for this
 
 ## Troubleshooting
 It describes what problems you may encounter and how to solve them
-
+-->
 ## Authors
 <table>
     <tr>
